@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Kant Chaubey</h1>
-<h3 align="center">A passionate Android App and Game developer from India</h3>
+<h3 align="center">A passionate Backend-Web Developer and Game developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Email Scheduler](https://github.com/armangupta910/email-scheduler-woc.git)
